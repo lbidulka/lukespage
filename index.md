@@ -7,4 +7,9 @@ simple little corner of the internet which I've just created.
 
 ¯\_(ツ)_/¯
 
+### Misc
+
+My Erdos number is 5:
+
+L. Bidulka -> Jane Z. Wang -> Young-Heon Kim -> Nassif A. Ghoussoub -> David Preiss -> Paul Erdos
 
