@@ -1,15 +1,9 @@
-## Welcome to Luke Bidulkas Page!
-
-I'm a senior electrical engineering student at the University of British Columbia in rainy Vancouver and this is an extremely 
-simple little corner of the internet which I've just created.
-
-### Why does this exist?
-
-¯\_(ツ)_/¯
-
-### Misc
-
-My Erdos number is 5:
-
-L. Bidulka -> Jane Z. Wang -> Young-Heon Kim -> Nassif A. Ghoussoub -> David Preiss -> Paul Erdos
-
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+title: My Great Homepage
+icon: fa-home
+order: 1
+---
