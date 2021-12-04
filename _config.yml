@@ -4,4 +4,4 @@ description: Lukes corner of the internet
 show_downloads: true
 google_analytics:
 theme: pages-themes/minimal@v0.2.0
-color-scheme: auto-deafualt-dark
+#color-scheme: auto-deafualt-dark
