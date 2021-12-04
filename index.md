@@ -2,7 +2,14 @@
 layout: default
 ---
 
-Theme can be **dark** or **light** the color is dependent on your system theme so go ahead turn it dark.
+Welcome to my corner of the internet!
+
+I'm a senior year electrical engineering student at UBC in Vancouver, Canada.
+I like thinking about AI, robotics and a whole list of things too long to mention explicitly tbh.
+
+I'll probably fill this page once I get around to it ¯\_(ツ)_/¯
+
+<!-- Theme can be **dark** or **light** the color is dependent on your system theme so go ahead turn it dark.
 Text can be **bold**, _italic_, or ~~strikethrough~~ or <kbd>keyboard shortcuts</kbd>.
 
 [Link to another page](./another-page.html).
@@ -121,4 +128,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
