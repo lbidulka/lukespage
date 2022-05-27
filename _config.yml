@@ -1,7 +1,7 @@
 title: Lukes Page
 logo: /assets/img/headshot.jpg
 description: Lukes corner of the internet
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: pages-themes/minimal@v0.2.0
 plugins:
