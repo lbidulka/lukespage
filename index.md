@@ -2,14 +2,17 @@
 layout: default
 ---
 
+## Luke Bidulka
+
 Welcome to my corner of the internet!
+
+I'm an ECE MASc student at UBC working on ML for particle physics at [TRIUMF](https://www.triumf.ca/research-program/research-topics/DSQC).
+Specifically, I'm developing algorithms for the under-construction [Hyper-K experiment](https://www.hyperk.org/) in Japan.
 
 I like thinking about AI, robotics and a whole other list of things too long to mention explicitly.
 I'll fill this page out soon^tm^ ¯\_(ツ)_/¯
 
-# What I'm Currently Doing:
-I'm an ECE MASc student at UBC working on ML for particle physics at [TRIUMF](https://www.triumf.ca/research-program/research-topics/DSQC).
-Specifically, I'm developing algorithms for the under-construction [Hyper-K experiment](https://www.hyperk.org/) in Japan.
+My BASc in Electrical Engineering was completed at UBC in 2022.
 
 
 <!-- Theme can be **dark** or **light** the color is dependent on your system theme so go ahead turn it dark.
