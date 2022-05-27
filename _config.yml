@@ -3,7 +3,6 @@ logo: /assets/img/headshot.jpg
 description: Lukes corner of the internet
 show_downloads: false
 google_analytics:
-#theme: pages-themes/minimal@v0.2.0
 remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
