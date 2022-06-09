@@ -6,13 +6,13 @@ layout: default
 
 Welcome to my corner of the internet!
 
-I'm an ECE MASc student at UBC working on ML for particle physics at [TRIUMF](https://www.triumf.ca/research-program/research-topics/DSQC).
-Specifically, I'm developing algorithms for the under-construction [Hyper-K experiment](https://www.hyperk.org/) in Japan.
+I'm an ECE MASc student under [Dr. Jane Z Wang](https://bmiai.ubc.ca/people/jane-z-wang) at UBC working on ML for particle physics at [TRIUMF](https://www.triumf.ca/research-program/research-topics/DSQC).
+Specifically, I'm currently developing classification algorithms for the under-construction [Hyper-K experiment](https://www.hyperk.org/) in Japan.
 
 I like thinking about AI, robotics and a whole other list of things too long to mention explicitly.
-I'll fill this page out soon^tm^ ¯\_(ツ)_/¯
+I'll fill this page out soon<sup>tm</sup> ¯\\\_(ツ)_/¯
 
-My BASc in Electrical Engineering was completed at UBC in 2022.
+My BASc in Electrical Engineering was completed with distinction at UBC in 2022.
 
 
 <!-- Theme can be **dark** or **light** the color is dependent on your system theme so go ahead turn it dark.
