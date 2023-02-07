@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Luke Bidulka
+<!-- ## Luke Bidulka -->
 
 Welcome to my corner of the internet!
 
@@ -16,7 +16,7 @@ I'll fill this page out soon<sup>tm</sup> &emsp; ¯\\\_(ツ)_/¯
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=NYjSYxIAAAAJ&hl=en&oi=ao))
 
-<img align="left" src="./assets/img/PA-Tran-example.png" width="25%" height="30%"/>
+<img align="left" src="./assets/img/PA-Tran-example.png" width="30%" height="35%"/>
 
 [PA-Tran: Learning to Estimate 3D Hand Pose with Partial Annotation](https://www.mdpi.com/1424-8220/23/3/1555) \
 Tianze Yu, **Luke Bidulka**, Martin J. McKeown, Z. Jane Wang \
@@ -27,7 +27,7 @@ Tianze Yu, **Luke Bidulka**, Martin J. McKeown, Z. Jane Wang \
 
 ## Projects ([GitHub](https://github.com/lbidulka))
 
-<img align="left" src="./assets/img/MANA-example.png" width="25%" height="30%"/>
+<img align="left" src="./assets/img/MANA-example.png" width="30%" height="35%"/>
 
 [Music is All You Need for Art](https://github.com/lbidulka/CPSC532S_FinalProject) \
 Novel method to create visually appealing, mood and genre informed image representations directly from music audio data. \
