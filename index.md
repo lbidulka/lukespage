@@ -14,6 +14,12 @@ I'll fill this page out soon<sup>tm</sup> ¯\\\_(ツ)_/¯
 
 My BASc in Electrical Engineering was completed with distinction at UBC in 2022.
 
+### Publications ([Google Scholar](https://scholar.google.com/citations?user=NYjSYxIAAAAJ&hl=en&oi=ao))
+
+[PA-Tran: Learning to Estimate 3D Hand Pose with Partial Annotation](https://www.mdpi.com/1424-8220/23/3/1555)
+
+### Misc
+
 Heres a list of some papers I've found interesting recently:
 - [Deep physical neural networks trained with backpropagation (Nature 2022)](https://www.nature.com/articles/s41586-021-04223-6#Sec4)
 - [Magnetic control of tokamak plasmas through deep reinforcement learning (Nature 2022)](https://www.nature.com/articles/s41586-021-04301-9)
